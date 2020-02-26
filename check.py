@@ -2,8 +2,8 @@ import os
 import shutil
 
 
-source_dir = "/Users/localadmin/nets_project/source/"
-dest_dir = "/Users/localadmin/nets_project/failure/"
+source_dir = "/Users/localadmin/nets/source/"
+dest_dir = "/Users/localadmin/nets/failure/"
 
 
 for top, dirs, files in  os.walk(source_dir):
