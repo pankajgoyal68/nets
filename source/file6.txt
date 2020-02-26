@@ -1,2 +1,4 @@
 failure
 Test Outcome : FAIL
+payment_agreement_id ="960843678"
+first_failed_transaction_date ="17032020"
